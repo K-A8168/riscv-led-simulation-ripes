@@ -12,7 +12,7 @@ This is a simple RISC-V assembly project that demonstrates how low-level instruc
 
 ## How to Run
 1. Download or clone this repo
-2. Open `leds.s` in Ripes
+2. Open `led.s` in Ripes
 3. Observe the Processor View, LED Board, and Memory in action
 
 ## Demo
